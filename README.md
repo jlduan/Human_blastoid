@@ -5,9 +5,10 @@
 
 
 
+***
 
 
-Pan lineage
+**Pan lineage**
 - Single-cell RNA-Seq profiling of human preimplantation embryos and embryonic stem cells
     - BioProject: PRJNA153427
     - GEO accession: GSE36552
@@ -32,7 +33,20 @@ Pan lineage
     - Published date: 12-Dec-19
     - [Notebook](https://github.com/jlduan/Replica/tree/master/s41586-019-1875-y)
 
+
 Trophoblast
+- Single-cell RNA sequencing reveals regulatory mechanism for trophoblast cell-fate divergence in human peri-implantation conceptuses
+    - BioProject: PRJNA516921
+    - GEO accession: GSE125616
+    - Published date: 9-Oct-19
+    - [Notebook](https://github.com/jlduan/Replica/tree/master/journal.pbio.3000187)
+
+- Dynamics of Trophoblast Differentiation in Peri-implantation Stage Human Embryos
+    - BioProject: PRJNA534673
+    - GEO accession: GSE130289
+    - Published date: 5-Nov-19
+    - [Notebook]()
+
 - Derivation of trophoblast stem cells from naïve human pluripotent stem cells
     - BioProject: PRJNA576801
     - GEO accession: GSE138688
@@ -45,14 +59,8 @@ Trophoblast
     - Published date: 14-Jul-20
     - [Notebook](https://github.com/jlduan/Replica/tree/master/eLife.52504)
 
-- Single-cell RNA sequencing reveals regulatory mechanism for trophoblast cell-fate divergence in human peri-implantation conceptuses
-    - BioProject: PRJNA516921
-    - GEO accession: GSE125616
-    - Published date: 9-Oct-19
-    - [Notebook](https://github.com/jlduan/Replica/tree/master/journal.pbio.3000187)
 
-
-Extraembryonic endoderm
+**Extraembryonic endoderm**
 - Naïve human pluripotent stem cells respond to Wnt, Nodal and LIF signalling to produce expandable naïve extra-embryonic endoderm
 
     - BioProject: PRJNA574150
@@ -61,7 +69,7 @@ Extraembryonic endoderm
     - [Notebook](https://github.com/jlduan/Replica/tree/master/dev.180620)
 
 
-Embryonic stem cell
+**Embryonic stem cell**
 - Resetting Transcription Factor Control Circuitry toward Ground-State Pluripotency in Human
 
     - BioProject: PRJEB7132
@@ -70,7 +78,7 @@ Embryonic stem cell
     - [Notebook](https://github.com/jlduan/Replica/tree/master/j.cell.2014.08.029)
 
 
-Monkey
+**Monkey**
 - A developmental coordinate of pluripotency among mice, monkeys and humans
 
     - BioProject: PRJNA301445
