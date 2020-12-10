@@ -5,6 +5,19 @@
 
 
 
+
+
+
+
+
+
+
+***
+
+- Clustering
+- Comparison
+- Analysis
+
 ***
 
 
@@ -34,7 +47,7 @@
     - [Notebook](https://github.com/jlduan/Replica/tree/master/s41586-019-1875-y)
 
 
-Trophoblast
+**Trophoblast**
 - Single-cell RNA sequencing reveals regulatory mechanism for trophoblast cell-fate divergence in human peri-implantation conceptuses
     - BioProject: PRJNA516921
     - GEO accession: GSE125616
@@ -45,7 +58,7 @@ Trophoblast
     - BioProject: PRJNA534673
     - GEO accession: GSE130289
     - Published date: 5-Nov-19
-    - [Notebook]()
+    - [Notebook](https://github.com/jlduan/Replica/tree/master/pnas.1911362116)
 
 - Derivation of trophoblast stem cells from naïve human pluripotent stem cells
     - BioProject: PRJNA576801
