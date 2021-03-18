@@ -4,7 +4,7 @@
 
 This repository contains the code used to generate the results in
 
-- ACGT
+- Leqian Yu\*, Yulei Wei\*, Jialei Duan\*, Daniel A. Schmitz, Masahiro Sakurai, Lei Wang, Kunhua Wang, Shuhua Zhao, Gary C. Hon# & Jun Wu#. **Blastocyst-like structures generated from human pluripotent stem cells.** *Nature* (2021). https://doi.org/10.1038/s41586-021-03356-y
 
 
 ***
