@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: If you use this repository, please cite the article from preferred-citation.
+title: Human Blastoid
+authors:
+  - family-names: Duan
+    given-names: Jialei
+    orcid: "https://orcid.org/0000-0003-4086-7461"
+date-released: 2021-02-12
+preferred-citation:
+  scope: If you use this repository, please cite this publication.
+  authors:
+    - family-names: Yu
+      given-names: Leqian
+    - family-names: Wei
+      given-names: Yulei
+    - family-names: Duan
+      given-names: Jialei
+    - family-names: Schmitz
+      given-names: Daniel
+    - family-names: Sakurai
+      given-names: Masahiro
+    - family-names: Wang
+      given-names: Lei
+    - family-names: Wang
+      given-names: Kunhua
+    - family-names: Zhao
+      given-names: Shuhua
+    - family-names: Hon
+      given-names: Gary
+    - family-names: Wu
+      given-names: Jun
+  type: article
+  title: "Blastocyst-like structures generated from human pluripotent stem cells"
+  journal: Nature
+  year: 2021
+  volume : 591
+  issue: 7851
+  doi: 10.1038/s41586-021-03356-y
+license:
+  - GPL-3.0
+repository-code: "https://github.com/jlduan/Human_blastoid"
