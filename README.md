@@ -9,10 +9,10 @@ This repository contains the code used to generate the results in
 ***
 
 
-- [Preprocessing matrices](https://nbviewer.jupyter.org/github/jlduan/Human_blastoid/blob/master/notebooks/merge_matrices.ipynb)
-- [Clustering blastoid cells](https://nbviewer.jupyter.org/github/jlduan/Human_blastoid/blob/master/notebooks/cluster_blastoids.ipynb)
-- [Analyzing/interpreting blastoid cells](https://htmlpreview.github.io/?https://github.com/jlduan/Human_blastoid/blob/master/notebooks/analyze_blastoids.html)
-- [Comparing with public datasets](https://htmlpreview.github.io/?https://github.com/jlduan/Human_blastoid/blob/master/notebooks/compare_blastoids.html)
+- [Preprocessing matrices](https://jlduan.github.io/Human_blastoid/notebooks/merge_matrices.html)
+- [Clustering blastoid cells](https://jlduan.github.io/Human_blastoid/notebooks/cluster_blastoids.html)
+- [Analyzing/interpreting blastoid cells](https://jlduan.github.io/Human_blastoid/notebooks/analyze_blastoids.html)
+- [Comparing with public datasets](https://jlduan.github.io/Human_blastoid/notebooks/compare_blastoids.html)
 
 
 ***
